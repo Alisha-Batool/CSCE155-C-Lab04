@@ -1,6 +1,6 @@
 /**
- * Author(s):
- * Date:
+ * Author(Alisha):
+ * Date: 17-10-2023
  *
  * This is a series of exercises to introduce loop
  * control structures.
